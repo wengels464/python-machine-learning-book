@@ -6,5 +6,3 @@ This repo represents a work-in-progress as I attempt to learn Python-based machi
 ## Tools
 ### Google Colaboratory
 Code itself will be hosted and executed on Google Colaboratory and backed up periodically to GitHub.
-
-**This is an update to test Git Clone**
